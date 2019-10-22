@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: teste-back-end
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: henrique.seganfredo
+Implementation-Vendor-Id: teste-tecnico-livelo
+Build-Jdk: 1.8.0_161
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
